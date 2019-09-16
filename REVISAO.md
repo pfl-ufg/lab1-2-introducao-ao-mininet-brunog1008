@@ -1,11 +1,11 @@
 Questao | Nota | Problema
 --------|------|---------
-Lab1.2-7.txt | 0 | resposta nao encontrada
+Lab1.2-7.txt | 10 | ok
 
 
 ## Resultado 
 
-* Nota = 0.0
+* Nota = 10.0
 
 ## Comentario 
 
